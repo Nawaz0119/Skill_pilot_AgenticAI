@@ -7,9 +7,8 @@ SkillPilot is an AI-powered learning coach that helps students and self-learners
 ## 🛠️ Technologies Used
 
 - IBM Cloud Watsonx AI Studio  
-- IBM Cloud Watsonx AI Runtime  
 - IBM Cloud Agent Lab  
-- IBM Granite Foundation Model  
+- IBM Granite Model  
 - Natural Language Processing (NLP)  
 - Retrieval-Augmented Generation (RAG)
 
